@@ -65,7 +65,53 @@ The application remembers your preferences using **local storage**:
 | sidebarVisible | Visibility of the left panel (&#x274C;&#xFE0E; / &#x2630;) |
 | language | Selected UI language (&#x1F310;) |
 
-## Opening helpfile
+# Getting started
+
+## Opening help file
 
 Append **?d={path}** to the viewer's URL to open a custom help file.
 If omitted, the default file **hlp/Help-{selected language}.zip** will be loaded automatically.
+
+## Browser tips
+
+Modern web browsers include built-in features such as:
+
+### 🧭 Content Navigation
+
+| Shortcut | Action |
+|---|---|
+| Tab | Go to next button / link on the page |
+| SHIFT + Tab | Go to previous button / link on the page |
+| ↑ ↓ ← → | Scroll or move focus inside content (if possible) |
+| PageUp / PageDown | Jump one page up/down in content |
+
+### &#127760; Browser Navigation & Page Actions
+
+| Shortcut | Action |
+|---|---|
+| ALT + ← / → | Navigate back/forward in history |
+| CTRL + L | Focus address bar |
+| CTRL + D | Bookmark current page |
+
+### &#x1F50D; Display & magnification
+
+| Shortcut | Action |
+|---|---|
+| CTRL + mouse wheel | Zoom in / Zoom out |
+| CTRL + 0 | Reset zoom |
+| F11 | Toggle / Exit fullscreen mode (page or iframe) |
+| ESC | Exit fullscreen mode |
+| F3 / CTRL + F | Find text on page |
+
+### &#x1F501; Content reload
+
+| Shortcut | Action |
+|---|---|
+| CTRL + R / F5 | Reload page |
+| CTRL + SHIFT + R | Hard reload (bypass cache) |
+
+### &#x1F4BE; Application & Install
+
+| Shortcut | Action |
+|---|---|
+| Address bar icon (&#x1F4E5;) on right side | Install web app |

@@ -53,7 +53,7 @@ Může to být z několika důvodů:
 | &#x1F4D6; / &#x1F4C7; | Autor nápovědy nedefinoval potřebná data |
 | &#x1F516; | Kapitola nemá podkapitoly |
 | &#x2630; | Levý panel je viditelný |
-| Left panel | Schoval jste levý panel, klikněte na horním panelu na tlačítko ☰a panel se znovu zobrazí |
+| Left panel | Schoval jste levý panel, klikněte na horním panelu na tlačítko ☰ a panel se znovu zobrazí |
 
 ## Data relace
 
@@ -65,6 +65,52 @@ Aplikace ukládá část Vaší konfigurace do **local storage**:
 | sidebarVisible | Viditelnost levého panelu (&#x274C;&#xFE0E; / &#x2630;) |
 | language | Vybraný jazyk prostředí (&#x1F310;) |
 
+# Začínáme
+
 ## Otevření souboru nápovědy
 
 Přidejte do adresního řádku parametr **?d={cesta}**. Pokud toto neuděláte, bude použita výchozí hodnota: **hlp/Help-{jazyk}.zip** a prohlížeč se pokusí načíst data z tohoto souboru.
+
+## Tipy pro prohlížeč
+
+Moderní webové prohlížeče umí následující funkce:
+
+### 🧭 Navigace v obsahu
+
+| Klávesová zkratka | Akce |
+|---|---|
+| Tab | Na následující tlačítko / odkaz na stránce |
+| SHIFT + Tab | Na předchozí tlačítko / odkaz na stránce |
+| ↑ ↓ ← → | Posouvání a pohyb v obsahu (pokud je možné) |
+| PageUp / PageDown | Posun o viditelnou stránku výše/níže |
+
+### &#127760; Navigace prohlížeče a akce stránky
+
+| Klávesová zkratka | Akce |
+|---|---|
+| ALT + ← / → | Zpět a Vpřed v historii procházení |
+| CTRL + L | Přejít na adresní řádek |
+| CTRL + D | Přidat stránku do záložek |
+
+### &#x1F50D; Zobrazení a zvětšení
+
+| Klávesová zkratka | Akce |
+|---|---|
+| CTRL + kolečko myši | Přiblížit / Oddálit, Zvětšit / Zmenšit text |
+| CTRL + 0 | Nastavit výchozí zvětšení |
+| F11 | Přepnout / Ukončit režim celé obrazovky (stránky nebo vnořeného rámce) |
+| ESC | Ukončit režim celé obrazovky |
+| F3 / CTRL + F | Hledat na stránce |
+
+### &#x1F501; Znovunačtení obsahu
+
+| Klávesová zkratka | Akce |
+|---|---|
+| CTRL + R / F5 | Obnovit stránku |
+| CTRL + SHIFT + R | Obnovit stránku bez použití cache paměti |
+
+### &#x1F4BE; Aplikace a instalace
+
+| Klávesová zkratka | Akce |
+|---|---|
+| Ikona na adresním řádku (&#x1F4E5;) na pravé straně | Instalovat webovou aplikaci (pokud ji web nabízí) |
