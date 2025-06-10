@@ -136,6 +136,7 @@ jobs:
             unzip "$file" _config.txt
             echo "_version|$TAG" >> _config.txt
             echo "_prjname|$REPO" >> _config.txt
-            zip -u "$file" _config.txt
+            zip -u -o "$file" _config.txt
+            rm _config.txt
             gh release upload "$TAG" "$file" --repo "$REPO" --clobber
           done
