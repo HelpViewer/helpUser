@@ -55,7 +55,7 @@ Může to být z několika důvodů:
 
 | Chybějící prvek | Proč? |
 |---|---|
-| &#x1F4D6; / &#x1F4C7; | Autor nápovědy nedefinoval potřebná data |
+| &#x1F4D6; / &#x1F4C7; / &#x1F50E; | Autor nápovědy nedefinoval potřebná data |
 | &#x1F516; | Kapitola nemá podkapitoly |
 | &#x2630; | Levý panel je viditelný |
 | Levý panel | Schoval jste levý panel, klikněte na horním panelu na tlačítko ☰ a panel se znovu zobrazí |
