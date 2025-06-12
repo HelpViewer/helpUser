@@ -1,5 +1,11 @@
 # Changelog
 
+## 20250612
+- Update publish.yml : metadata preparation changed, base directory with CSS support added
+- CZ, EN : Icons of book open/closed defined
+- CZ : English typo fix
+- Test of new pipeline with fulltext generator (currently turned off)
+
 ## 20250610
 - no changes in text
 - test deployment with new pipeline
