@@ -16,8 +16,13 @@ At the bottom of this panel, you’ll find several buttons:
     *(shown if the current chapter has subchapters)*
   - &#x1F4C7; Keywords list / Glossary  
     *(visible if defined by the help author)*
+  - &#x1F50E; Fulltext keywords list  
+    *(visible if defined by the help author)*
 
-  These items are displayed as an expandable tree with clickable nodes. Clicking on an item expands its subcontent or opens the selected chapter.
+  These items are displayed as an expandable tree with clickable nodes. Clicking on an item expands its subcontent or opens the selected chapter.  
+  &#x1F4C7; and &#x1F50E; have an input field at the top where you can search for an exact phrase.  
+  Just start typing and press **Enter** to search.  
+  Press **Esc** to clear the field.
 
   - &#x1F3E1; Go to the help file’s homepage (README.md)
 
@@ -64,6 +69,7 @@ The application remembers your preferences using **local storage**:
 | colorTheme | Selected color mode (&#127912;) |
 | sidebarVisible | Visibility of the left panel (&#x274C;&#xFE0E; / &#x2630;) |
 | language | Selected UI language (&#x1F310;) |
+| keywordListingCount | Count of searched keywords in &#x1F4C7;, &#x1F50E; lists. |
 
 # Getting started
 

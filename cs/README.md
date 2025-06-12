@@ -16,8 +16,13 @@ Ve spodní části panelu najdete několik tlačítek:
     *(viditelné jen pokud má vybraná kapitola podkapitoly)*
   - &#x1F4C7; Seznam klíčových slov  
     *(viditelné jen pokud jej definoval autor nápovědy)*
+  - &#x1F50E; Hledání slov v textu kapitol  
+    *(viditelné jen pokud jej definoval autor nápovědy)*
 
-  Tyto položky jsou zobrazeny jako rozbalovací strom s uzly, na které lze kliknout. Kliknutím na položku se rozbalí její dílčí část nebo se otevře vybraná kapitola.
+  Tyto položky jsou zobrazeny jako rozbalovací strom s uzly, na které lze kliknout. Kliknutím na položku se rozbalí její dílčí část nebo se otevře vybraná kapitola.  
+  &#x1F4C7; a &#x1F50E; mají nahoře pole pro zadání fráze, kterou chcete vyhledávat.  
+  Napište frázi a stiskněte **Enter**, abyste zahájili hledání.  
+  Kliknutím na **Esc** pole vymažete a opustíte.
 
   - &#x1F3E1; Přejít na hlavní stránku nápovědy (README.md)
 
@@ -64,6 +69,7 @@ Aplikace ukládá část Vaší konfigurace do **local storage**:
 | colorTheme | Schéma barev (&#127912;) |
 | sidebarVisible | Viditelnost levého panelu (&#x274C;&#xFE0E; / &#x2630;) |
 | language | Vybraný jazyk prostředí (&#x1F310;) |
+| keywordListingCount | Počet klíčových slov, která se budou zobrazovat v seznamech &#x1F4C7;, &#x1F50E;. |
 
 # Začínáme
 
