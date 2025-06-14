@@ -31,6 +31,7 @@ Ve spodní části panelu najdete několik tlačítek:
   - &#x1F310; Výběr jazyka prostředí
   - &#127912; Nastavit schéma barev  
     *(barevné, stupně šedi, bílá a černá, černá a bílá)*
+  - &#8596; Přesunout levý panel na druhou stranu (nebo zpět)
   - &#x1F532; Přepnout full screen režim
   - &#x274C;&#xFE0E; Schovat levý panel
 
@@ -70,6 +71,7 @@ Aplikace ukládá část Vaší konfigurace do **local storage**:
 | sidebarVisible | Viditelnost levého panelu (&#x274C;&#xFE0E; / &#x2630;) |
 | language | Vybraný jazyk prostředí (&#x1F310;) |
 | keywordListingCount | Počet klíčových slov, která se budou zobrazovat v seznamech &#x1F4C7;, &#x1F50E;. |
+| sidebarSide | Strana levého panelu (&#8596; ; 1 = vlevo, 0 = vpravo) |
 
 # Začínáme
 

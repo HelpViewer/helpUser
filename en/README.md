@@ -31,6 +31,7 @@ At the bottom of this panel, you’ll find several buttons:
   - &#x1F310; UI Language selection
   - &#127912; Switch color mode  
     *(color, greyscale, white to black, black to white)*
+  - &#8596; Move (toggle) sidebar to left/right
   - &#x1F532; Toggle UI to/from fullscreen
   - &#x274C;&#xFE0E; Close left sidebar
 
@@ -70,6 +71,7 @@ The application remembers your preferences using **local storage**:
 | sidebarVisible | Visibility of the left panel (&#x274C;&#xFE0E; / &#x2630;) |
 | language | Selected UI language (&#x1F310;) |
 | keywordListingCount | Count of searched keywords in &#x1F4C7;, &#x1F50E; lists. |
+| sidebarSide | Left panel side (&#8596; ; 1 = left, 0 = right) |
 
 # Getting started
 
