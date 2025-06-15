@@ -1,5 +1,10 @@
 # Changelog
 
+## 20250615
+- EN, CZ : Fulltext and keyword index recent changes documented
+- EN, CZ : Fulltext mentioned in missing features near explanation
+- EN, CZ : Button : Switch side of sidebar description
+
 ## 20250612
 - Update publish.yml : metadata preparation changed, base directory with CSS support added
 - CZ, EN : Icons of book open/closed defined
