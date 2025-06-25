@@ -71,7 +71,7 @@ Aplikace ukládá část Vaší konfigurace do **local storage**:
 | sidebarVisible | Viditelnost levého panelu (&#x274C;&#xFE0E; / &#x2630;) |
 | language | Vybraný jazyk prostředí (&#x1F310;) |
 | keywordListingCount | Počet klíčových slov, která se budou zobrazovat v seznamech &#x1F4C7;, &#x1F50E;. |
-| sidebarSide | Strana levého panelu (&#8596; ; 1 = vlevo, 0 = vpravo) |
+| sidebarSide | Strana levého panelu (&#8596; ; 0 = vlevo, 1 = vpravo) |
 
 # Začínáme
 

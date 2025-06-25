@@ -71,7 +71,7 @@ The application remembers your preferences using **local storage**:
 | sidebarVisible | Visibility of the left panel (&#x274C;&#xFE0E; / &#x2630;) |
 | language | Selected UI language (&#x1F310;) |
 | keywordListingCount | Count of searched keywords in &#x1F4C7;, &#x1F50E; lists. |
-| sidebarSide | Left panel side (&#8596; ; 1 = left, 0 = right) |
+| sidebarSide | Left panel side (&#8596; ; 0 = left, 1 = right) |
 
 # Getting started
 
