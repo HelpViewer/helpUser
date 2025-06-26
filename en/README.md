@@ -80,6 +80,11 @@ The application remembers your preferences using **local storage**:
 Append **?d={path}** to the viewer's URL to open a custom help file.
 If omitted, the default file **hlp/Help-{selected language}.zip** will be loaded automatically.
 
+The following are valid path formats that end with:
+
+- .zip - zip help file
+- / - directory on your disk or network URI address
+
 ## Browser tips
 
 Modern web browsers include built-in features such as:
