@@ -77,7 +77,8 @@ Aplikace ukládá část Vaší konfigurace do **local storage**:
 
 ## Otevření souboru nápovědy
 
-Přidejte do adresního řádku parametr **?d={cesta}**. Pokud toto neuděláte, bude použita výchozí hodnota: **hlp/Help-{jazyk}.zip** a prohlížeč se pokusí načíst data z tohoto souboru.
+Přidejte do adresního řádku parametr **?d={cesta}**. 
+Pokud toto neuděláte, bude použita výchozí hodnota: **hlp/Help-{jazyk}.zip** a prohlížeč se pokusí načíst data z tohoto souboru.
 
 Cesta může mít tyto formáty, které končí na:
 
@@ -127,3 +128,8 @@ Moderní webové prohlížeče umí následující funkce:
 | Klávesová zkratka | Akce |
 |---|---|
 | Ikona na adresním řádku (&#x1F4E5;) na pravé straně | Instalovat webovou aplikaci (pokud ji web nabízí) |
+| 🌐 Odkaz na poslední verzi | <span id="linkhereI"></span> |
+
+<script>
+  insertDownloadLink('linkhereI', '@ (_)');
+</script>
