@@ -1,5 +1,9 @@
 # Changelog
 
+## 20250626
+- EN, CZ : sidebarSide : values description corrected to current state
+- CZ, EN : Path specification possiblities described - .zip or / for folder
+
 ## 20250615
 - EN, CZ : Fulltext and keyword index recent changes documented
 - EN, CZ : Fulltext mentioned in missing features near explanation
