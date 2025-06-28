@@ -1,5 +1,8 @@
 # Changelog
 
+## 20250628
+- EN, CZ : Added link to latest version
+
 ## 20250626
 - EN, CZ : sidebarSide : values description corrected to current state
 - CZ, EN : Path specification possiblities described - .zip or / for folder
