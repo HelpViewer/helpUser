@@ -29,6 +29,7 @@ At the bottom of this panel, you’ll find several buttons:
 ### Viewer customization
 
   - &#x1F310; UI Language selection
+  - 🕘 Search for other version (of help file) (Internet connection required)
   - &#127912; Switch color mode  
     *(color, greyscale, white to black, black to white)*
   - &#8596; Move (toggle) sidebar to left/right

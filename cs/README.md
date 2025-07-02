@@ -29,6 +29,7 @@ Ve spodní části panelu najdete několik tlačítek:
 ### Nastavení prohlížeče
 
   - &#x1F310; Výběr jazyka prostředí
+  - 🕘 Najít jinou verzi nápovědy (je potřeba být připojen k Internetu)
   - &#127912; Nastavit schéma barev  
     *(barevné, stupně šedi, bílá a černá, černá a bílá)*
   - &#8596; Přesunout levý panel na druhou stranu (nebo zpět)
