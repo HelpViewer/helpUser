@@ -1,5 +1,8 @@
 # Changelog
 
+## 20250703
+- EN,CZ : Version switching mentioned
+
 ## 20250628
 - EN, CZ : Added link to latest version
 
