@@ -1,5 +1,8 @@
 # Changelog
 
+## 20250705
+- EN,CZ : CORS description updated to state after last changes
+
 ## 20250703
 - EN,CZ : Version switching mentioned
 
