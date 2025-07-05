@@ -28,7 +28,7 @@ Ve spodní části panelu najdete několik tlačítek:
 
 ### Nastavení prohlížeče
 
-  - &#x1F310; Výběr jazyka prostředí
+  - 🌐 Výběr jazyka prostředí
   - 🕘 Najít jinou verzi nápovědy (je potřeba být připojen k Internetu)
   - &#127912; Nastavit schéma barev  
     *(barevné, stupně šedi, bílá a černá, černá a bílá)*
@@ -61,6 +61,7 @@ Může to být z několika důvodů:
 | &#x1F516; | Kapitola nemá podkapitoly |
 | &#x2630; | Levý panel je viditelný |
 | Levý panel | Schoval jste levý panel, klikněte na horním panelu na tlačítko ☰ a panel se znovu zobrazí |
+| 🌐 / 🕘 | Prohlížeč běží s aktivními CORS politikami |
 
 ## Data relace
 

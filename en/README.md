@@ -28,7 +28,7 @@ At the bottom of this panel, you’ll find several buttons:
 
 ### Viewer customization
 
-  - &#x1F310; UI Language selection
+  - 🌐 UI Language selection
   - 🕘 Search for other version (of help file) (Internet connection required)
   - &#127912; Switch color mode  
     *(color, greyscale, white to black, black to white)*
@@ -61,6 +61,7 @@ There are several reasons why certain elements may not appear:
 | &#x1F516; | The current chapter has no subchapters |
 | &#x2630; | The left panel is already visible |
 | Left panel | You closed the app with the panel hidden. Just click ☰ in the top bar to bring it back |
+| 🌐 / 🕘 | The browser runs with active CORS policies |
 
 ## Session Data
 
