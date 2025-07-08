@@ -1,5 +1,8 @@
 # Changelog
 
+## 20250708
+- EN,CZ : @print-keep-icons used in document
+
 ## 20250705
 - EN,CZ : CORS description updated to state after last changes
 
