@@ -1,5 +1,6 @@
 # &#128214;Help Viewer quick guide
 
+<!-- @print-keep-icons -->
 The application is divided into two main areas:
 
 ## Left panel

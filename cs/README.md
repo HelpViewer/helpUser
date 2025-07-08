@@ -1,5 +1,6 @@
 # &#128214;Help Viewer přehled
 
+<!-- @print-keep-icons -->
 Aplikace je rozdělena na dvě hlavní oblasti:
 
 ## Levý panel
