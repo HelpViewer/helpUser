@@ -47,7 +47,7 @@ Pravý panel zobrazuje hlavní část aplikace:
 
   - &#x2630; Zobrazit levý panel  
     *(pokud je skrytý)*
-  - &#x1F4C4; Vytisknout kapitolu
+  - 🖨️ Vytisknout kapitolu
   - &#x2B05; Přejít k předchozí kapitole
   - &#x2B06; Přejít na nadřízenou kapitolu
   - &#x27A1; Přejít k následující kapitole

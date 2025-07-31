@@ -47,7 +47,7 @@ The right panel displays the main content area:
 
   - &#x2630; Show left panel back  
     *(if hidden)*
-  - &#x1F4C4; Print current chapter
+  - 🖨️ Print current chapter
   - &#x2B05; Go to the previous chapter
   - &#x2B06; Go one level up
   - &#x27A1; Go to the next chapter
