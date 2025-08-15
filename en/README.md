@@ -33,6 +33,7 @@ At the bottom of this panel, you’ll find several buttons:
   - 🕘 Search for other version (of help file) (Internet connection required)
   - &#127912; Switch color mode  
     *(color, greyscale, white to black, black to white)*
+  - 📚 Show all chapters as book
   - &#8596; Move (toggle) sidebar to left/right
   - &#x1F532; Toggle UI to/from fullscreen
   - &#x274C;&#xFE0E; Close left sidebar
