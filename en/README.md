@@ -60,6 +60,7 @@ There are several reasons why certain elements may not appear:
 | Missing icon or feature | Why? |
 |---|---|
 | &#x1F4D6; / &#x1F4C7; / &#x1F50E; | These were not defined by the help file author |
+| 📚 | TOC (📖) is not defined |
 | &#x1F516; | The current chapter has no subchapters |
 | &#x2630; | The left panel is already visible |
 | Left panel | You closed the app with the panel hidden. Just click ☰ in the top bar to bring it back |
