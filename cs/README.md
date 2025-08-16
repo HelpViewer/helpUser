@@ -77,6 +77,7 @@ Aplikace ukládá část Vaší konfigurace do **local storage**:
 | language | Vybraný jazyk prostředí (&#x1F310;) |
 | keywordListingCount | Počet klíčových slov, která se budou zobrazovat v seznamech &#x1F4C7;, &#x1F50E;. |
 | sidebarSide | Strana levého panelu (&#8596; ; 0 = vlevo, 1 = vpravo) |
+| printIcons | Režim tisku unicode ikon; 0 = odstranit, 1 = ponechat, 2 = podle konfigurace autora |
 
 # Začínáme
 
