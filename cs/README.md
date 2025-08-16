@@ -33,7 +33,8 @@ Ve spodní části panelu najdete několik tlačítek:
   - 🕘 Najít jinou verzi nápovědy (je potřeba být připojen k Internetu)
   - &#127912; Nastavit schéma barev  
     *(barevné, stupně šedi, bílá a černá, černá a bílá)*
-  - 📚 Zobrazit všechny kapitoly jako jeden dokument
+  - 📚 Zobrazit všechny kapitoly jako jeden dokument  
+    *(po výběru zalomení stránek a způsobu tisku Unicode ikon v textu stačí podruhé kliknout na tlačítko a zobrazí se výsledek)*
   - &#8596; Přesunout levý panel na druhou stranu (nebo zpět)
   - &#x1F532; Přepnout full screen režim
   - &#x274C;&#xFE0E; Schovat levý panel
