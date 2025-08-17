@@ -65,7 +65,7 @@ Může to být z několika důvodů:
 | &#x1F516; | Kapitola nemá podkapitoly |
 | &#x2630; | Levý panel je viditelný |
 | Levý panel | Schoval jste levý panel, klikněte na horním panelu na tlačítko ☰ a panel se znovu zobrazí |
-| 🌐 / 🕘 | Prohlížeč běží s aktivními CORS politikami |
+| 🕘 | Nápověda nemá vazbu na veřejný online repozitář  (např. není k dispozici připojení k internetu) |
 
 ## Data relace
 

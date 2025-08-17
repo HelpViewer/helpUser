@@ -65,7 +65,7 @@ There are several reasons why certain elements may not appear:
 | &#x1F516; | The current chapter has no subchapters |
 | &#x2630; | The left panel is already visible |
 | Left panel | You closed the app with the panel hidden. Just click ☰ in the top bar to bring it back |
-| 🌐 / 🕘 | The browser runs with active CORS policies |
+| 🕘 | Help is not linked to the public online repository or it is not accessible (e.g. no internet connection) |
 
 ## Session Data
 
