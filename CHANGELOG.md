@@ -1,6 +1,6 @@
 # Changelog
 
-## 20250720
+## 20250820
 - EN,CZ : Edit in repository function mentioned
 - EN,CZ : Print current chapter icon updated
 - EN,CZ : Show all chapters as book function mentioned
