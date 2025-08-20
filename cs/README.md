@@ -53,6 +53,7 @@ Pravý panel zobrazuje hlavní část aplikace:
   - &#x2B05; Přejít k předchozí kapitole
   - &#x2B06; Přejít na nadřízenou kapitolu
   - &#x27A1; Přejít k následující kapitole
+  - ✏️ Editovat v repozitáři
   
 ## Proč část prvků chybí?
 

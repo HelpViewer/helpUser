@@ -53,6 +53,7 @@ The right panel displays the main content area:
   - &#x2B05; Go to the previous chapter
   - &#x2B06; Go one level up
   - &#x27A1; Go to the next chapter
+  - ✏️ Edit in repository
   
 ## Why something might be missing?
 
