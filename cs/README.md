@@ -34,7 +34,8 @@ Ve spodní části panelu najdete několik tlačítek:
   - &#127912; Nastavit schéma barev  
     *(barevné, stupně šedi, bílá a černá, černá a bílá)*
   - 📚 Zobrazit všechny kapitoly jako jeden dokument  
-    *(po výběru zalomení stránek a způsobu tisku Unicode ikon v textu stačí podruhé kliknout na tlačítko a zobrazí se výsledek)*
+    *(po výběru zalomení stránek a způsobu tisku Unicode ikon v textu stačí podruhé kliknout na tlačítko a zobrazí se výsledek)*  
+    *(do výstupu se zahrnují pouze kapitoly zobrazené ve stromu témat, domovská stránka nápovědy, kapitoly, na které je v textu odkazováno)*
   - &#8596; Přesunout levý panel na druhou stranu (nebo zpět)
   - &#x1F532; Přepnout full screen režim
   - &#x274C;&#xFE0E; Schovat levý panel
@@ -62,7 +63,6 @@ Může to být z několika důvodů:
 | Chybějící prvek | Proč? |
 |---|---|
 | &#x1F4D6; / &#x1F4C7; / &#x1F50E; | Autor nápovědy nedefinoval potřebná data |
-| 📚 | Strom témat (📖) není definován |
 | &#x1F516; | Kapitola nemá podkapitoly |
 | &#x2630; | Levý panel je viditelný |
 | Levý panel | Schoval jste levý panel, klikněte na horním panelu na tlačítko ☰ a panel se znovu zobrazí |

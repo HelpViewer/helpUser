@@ -34,7 +34,8 @@ At the bottom of this panel, you’ll find several buttons:
   - &#127912; Switch color mode  
     *(color, greyscale, white to black, black to white)*
   - 📚 Show all chapters as book  
-    *(after selecting page breaks and the method of printing Unicode icons in the text, simply click the button a second time and the result will be displayed)*
+    *(after selecting page breaks and the method of printing Unicode icons in the text, simply click the button a second time and the result will be displayed)*  
+    *(only chapters displayed in the topic tree, the help home page, and chapters referenced in the text are included in the output)*
   - &#8596; Move (toggle) sidebar to left/right
   - &#x1F532; Toggle UI to/from fullscreen
   - &#x274C;&#xFE0E; Close left sidebar
@@ -62,7 +63,6 @@ There are several reasons why certain elements may not appear:
 | Missing icon or feature | Why? |
 |---|---|
 | &#x1F4D6; / &#x1F4C7; / &#x1F50E; | These were not defined by the help file author |
-| 📚 | TOC (📖) is not defined |
 | &#x1F516; | The current chapter has no subchapters |
 | &#x2630; | The left panel is already visible |
 | Left panel | You closed the app with the panel hidden. Just click ☰ in the top bar to bring it back |
