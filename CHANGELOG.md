@@ -1,5 +1,12 @@
 # Changelog
 
+## 20250720
+- EN,CZ : Edit in repository function mentioned
+- EN,CZ : Print current chapter icon updated
+- EN,CZ : Show all chapters as book function mentioned
+- EN,CZ : printIcons option mentioned
+- EN,CZ : Switch version button limits description updated
+
 ## 20250708
 - EN,CZ : @print-keep-icons used in document
 
