@@ -1,5 +1,8 @@
 # Changelog
 
+## 20250828
+- EN,CZ : Show all chapters as book function description updated according to last extension of function
+
 ## 20250820
 - EN,CZ : Edit in repository function mentioned
 - EN,CZ : Print current chapter icon updated
