@@ -38,6 +38,8 @@ At the bottom of this panel, you’ll find several buttons:
     *(only chapters displayed in the topic tree, the help home page, and chapters referenced in the text are included in the output)*
   - &#8596; Move (toggle) sidebar to left/right
   - &#x1F532; Toggle UI to/from fullscreen
+  - 📽 Presentation mode  
+    *(full screen mode (🔲), keys ⬅, ⬆, ➡, ⬇ are used to switch between chapters/slides)*
   - &#x274C;&#xFE0E; Close left sidebar
 
 ## Right panel

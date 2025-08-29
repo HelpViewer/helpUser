@@ -38,6 +38,8 @@ Ve spodní části panelu najdete několik tlačítek:
     *(do výstupu se zahrnují pouze kapitoly zobrazené ve stromu témat, domovská stránka nápovědy, kapitoly, na které je v textu odkazováno)*
   - &#8596; Přesunout levý panel na druhou stranu (nebo zpět)
   - &#x1F532; Přepnout full screen režim
+  - 📽 Prezentační režim  
+    *(Přepnout full screen režim (🔲), klávesy ⬅, ⬆, ➡, ⬇ slouží k přechodu mezi kapitolami/snímky)*
   - &#x274C;&#xFE0E; Schovat levý panel
 
 ## Pravý panel
