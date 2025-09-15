@@ -32,7 +32,7 @@ Ve spodní části panelu najdete několik tlačítek:
   - 🌐 Výběr jazyka prostředí
   - 🕘 Najít jinou verzi nápovědy (je potřeba být připojen k Internetu)
   - &#127912; Nastavit schéma barev  
-    *(barevné, stupně šedi, bílá a černá, černá a bílá)*
+    *(barevné, stupně šedi, bílá a černá, černá a bílá, sepie)*
   - 📚 Zobrazit všechny kapitoly jako jeden dokument  
     *(po výběru zalomení stránek a způsobu tisku Unicode ikon v textu stačí podruhé kliknout na tlačítko a zobrazí se výsledek)*  
     *(do výstupu se zahrnují pouze kapitoly zobrazené ve stromu témat, domovská stránka nápovědy, kapitoly, na které je v textu odkazováno)*

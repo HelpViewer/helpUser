@@ -32,7 +32,7 @@ At the bottom of this panel, you’ll find several buttons:
   - 🌐 UI Language selection
   - 🕘 Search for other version (of help file) (Internet connection required)
   - &#127912; Switch color mode  
-    *(color, greyscale, white to black, black to white)*
+    *(color, greyscale, white to black, black to white, sepia)*
   - 📚 Show all chapters as book  
     *(after selecting page breaks and the method of printing Unicode icons in the text, simply click the button a second time and the result will be displayed)*  
     *(only chapters displayed in the topic tree, the help home page, and chapters referenced in the text are included in the output)*
