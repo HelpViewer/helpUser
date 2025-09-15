@@ -1,5 +1,8 @@
 # Changelog
 
+## 20250915
+- EN,CZ : Presentation mode feature mentioned
+
 ## 20250828
 - EN,CZ : Show all chapters as book function description updated according to last extension of function
 
