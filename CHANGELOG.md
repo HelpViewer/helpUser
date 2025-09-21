@@ -1,5 +1,8 @@
 # Changelog
 
+## 20250921
+- Sepia color theme mentioned
+
 ## 20250915
 - EN,CZ : Presentation mode feature mentioned
 
