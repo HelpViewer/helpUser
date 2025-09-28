@@ -18,7 +18,7 @@ Ve spodní části panelu najdete několik tlačítek:
   - &#x1F4C7; Seznam klíčových slov  
     *(viditelné jen pokud jej definoval autor nápovědy)*
   - &#x1F50E; Hledání slov v textu kapitol  
-    *(viditelné jen pokud jej definoval autor nápovědy)*
+    *(viditelné jen pokud jej definoval autor nápovědy nebo je aktivní funkcionalita indexace)*
 
   Tyto položky jsou zobrazeny jako rozbalovací strom s uzly, na které lze kliknout. Kliknutím na položku se rozbalí její dílčí část nebo se otevře vybraná kapitola.  
   &#x1F4C7; a &#x1F50E; mají nahoře pole pro zadání fráze, kterou chcete vyhledávat.  
@@ -36,6 +36,8 @@ Ve spodní části panelu najdete několik tlačítek:
   - 📚 Zobrazit všechny kapitoly jako jeden dokument  
     *(po výběru zalomení stránek a způsobu tisku Unicode ikon v textu stačí podruhé kliknout na tlačítko a zobrazí se výsledek)*  
     *(do výstupu se zahrnují pouze kapitoly zobrazené ve stromu témat, domovská stránka nápovědy, kapitoly, na které je v textu odkazováno)*
+  - ✏️ Poznámky  
+    *Umožňuje přidávat, spravovat a přepínat zobrazení (👁️) nebo skrytí (🙈) uživatelských poznámek. Poznámky lze odstranit jednoduchým vymazáním jejich obsahu. Ty, které jsou zobrazené na obrazovce, se automaticky zahrnují i do tisku. Zobrazují se pouze při procházení jednotlivých kapitol. Poznámky jsou ukládány v místním prostředí uživatele a nejsou sdílené mezi uživateli, ale jsou společné pro různé jazykové a časové verze téhož souboru nápovědy.*
   - &#8596; Přesunout levý panel na druhou stranu (nebo zpět)
   - &#x1F532; Přepnout full screen režim
   - 📽 Prezentační režim  
@@ -56,7 +58,7 @@ Pravý panel zobrazuje hlavní část aplikace:
   - &#x2B05; Přejít k předchozí kapitole
   - &#x2B06; Přejít na nadřízenou kapitolu
   - &#x27A1; Přejít k následující kapitole
-  - ✏️ Editovat v repozitáři
+  - 📝 Editovat v repozitáři
   
 ## Proč část prvků chybí?
 
@@ -64,17 +66,20 @@ Může to být z několika důvodů:
 
 | Chybějící prvek | Proč? |
 |---|---|
-| &#x1F4D6; / &#x1F4C7; / &#x1F50E; | Autor nápovědy nedefinoval potřebná data |
+| &#x1F4D6; / &#x1F4C7; | Autor nápovědy nedefinoval potřebná data |
+| 🔎 | Autor nápovědy nedefinoval potřebná data, funkce indexace je vypnutá nebo proces indexace nebyl zatím dokončen |
 | &#x1F516; | Kapitola nemá podkapitoly |
 | &#x2630; | Levý panel je viditelný |
 | Levý panel | Schoval jste levý panel, klikněte na horním panelu na tlačítko ☰ a panel se znovu zobrazí |
 | 🕘 | Nápověda nemá vazbu na veřejný online repozitář  (např. není k dispozici připojení k internetu) |
 
-## Data relace
+Funkce 📥 Vlastní balíček umožňuje upravit většinu funkcionality. Pokud byla při stažení aplikace použita, některé funkce mohou být nedostupné.
+
+## Data nastavení
 
 Aplikace ukládá část Vaší konfigurace do **local storage**:
 
-| Key | Description |
+| Klíč | Popis |
 |---|---|
 | colorTheme | Schéma barev (&#127912;) |
 | sidebarVisible | Viditelnost levého panelu (&#x274C;&#xFE0E; / &#x2630;) |
@@ -82,6 +87,9 @@ Aplikace ukládá část Vaší konfigurace do **local storage**:
 | keywordListingCount | Počet klíčových slov, která se budou zobrazovat v seznamech &#x1F4C7;, &#x1F50E;. |
 | sidebarSide | Strana levého panelu (&#8596; ; 0 = vlevo, 1 = vpravo) |
 | printIcons | Režim tisku unicode ikon; 0 = odstranit, 1 = ponechat, 2 = podle konfigurace autora |
+| notesVisible | Režim zobrazení uživatelských poznámek; 0 = skryté (🙈), 1 = zobrazené (👁️) |
+
+Modul ✏️ Poznámky uchovává svá data v **IndexedDB** úložišti webového prohlížeče (databáze **HelpViewer**).
 
 # Začínáme
 

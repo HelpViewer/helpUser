@@ -18,7 +18,7 @@ At the bottom of this panel, you’ll find several buttons:
   - &#x1F4C7; Keywords list / Glossary  
     *(visible if defined by the help author)*
   - &#x1F50E; Fulltext keywords list  
-    *(visible if defined by the help author)*
+    *(visible if defined by the help author or the indexing functionality is active)*
 
   These items are displayed as an expandable tree with clickable nodes. Clicking on an item expands its subcontent or opens the selected chapter.  
   &#x1F4C7; and &#x1F50E; have an input field at the top where you can search for an exact phrase.  
@@ -36,6 +36,8 @@ At the bottom of this panel, you’ll find several buttons:
   - 📚 Show all chapters as book  
     *(after selecting page breaks and the method of printing Unicode icons in the text, simply click the button a second time and the result will be displayed)*  
     *(only chapters displayed in the topic tree, the help home page, and chapters referenced in the text are included in the output)*
+  - ✏️ Notes  
+*Allows you to add, manage, and toggle the display (👁️) or hiding (🙈) of user notes. Notes can be deleted by simply erasing their content. Those displayed on the screen are automatically included in the printout. They are only displayed when browsing individual chapters. Notes are stored in the user's local environment and are not shared between users, but are common to different language and time versions of the same help file.*
   - &#8596; Move (toggle) sidebar to left/right
   - &#x1F532; Toggle UI to/from fullscreen
   - 📽 Presentation mode  
@@ -56,7 +58,7 @@ The right panel displays the main content area:
   - &#x2B05; Go to the previous chapter
   - &#x2B06; Go one level up
   - &#x27A1; Go to the next chapter
-  - ✏️ Edit in repository
+  - 📝 Edit in repository
   
 ## Why something might be missing?
 
@@ -64,13 +66,16 @@ There are several reasons why certain elements may not appear:
 
 | Missing icon or feature | Why? |
 |---|---|
-| &#x1F4D6; / &#x1F4C7; / &#x1F50E; | These were not defined by the help file author |
+| &#x1F4D6; / &#x1F4C7; | These were not defined by the help file author |
+| 🔎 | These were not defined by the help file author, the indexing function is disabled, or the indexing process has not been completed yet |
 | &#x1F516; | The current chapter has no subchapters |
 | &#x2630; | The left panel is already visible |
 | Left panel | You closed the app with the panel hidden. Just click ☰ in the top bar to bring it back |
 | 🕘 | Help is not linked to the public online repository or it is not accessible (e.g. no internet connection) |
 
-## Session Data
+The 📥 Custom package feature allows you to customise most of the functionality. If it was used when downloading the application, some features may be unavailable.
+
+## Configuration data
 
 The application remembers your preferences using **local storage**:
 
@@ -82,6 +87,9 @@ The application remembers your preferences using **local storage**:
 | keywordListingCount | Count of searched keywords in &#x1F4C7;, &#x1F50E; lists. |
 | sidebarSide | Left panel side (&#8596; ; 0 = left, 1 = right) |
 | printIcons | Unicode icons (characters) printing mode; 0 = remove, 1 = keep, 2 = author's configuration |
+| notesVisible | User notes display mode; 0 = hidden (🙈), 1 = shown (👁️) |
+
+The ✏️ Notes module stores its data in the web browser's **IndexedDB** storage (database: **HelpViewer**).
 
 # Getting started
 
