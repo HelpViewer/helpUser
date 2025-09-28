@@ -37,7 +37,7 @@ At the bottom of this panel, you’ll find several buttons:
     *(after selecting page breaks and the method of printing Unicode icons in the text, simply click the button a second time and the result will be displayed)*  
     *(only chapters displayed in the topic tree, the help home page, and chapters referenced in the text are included in the output)*
   - ✏️ Notes  
-*Allows you to add, manage, and toggle the display (👁️) or hiding (🙈) of user notes. Notes can be deleted by simply erasing their content. Those displayed on the screen are automatically included in the printout. They are only displayed when browsing individual chapters. Notes are stored in the user's local environment and are not shared between users, but are common to different language and time versions of the same help file.*
+*Allows you to add, manage, and toggle the display (👁️) or hiding (🙈) of user notes. Notes can be deleted by simply erasing their content. Those displayed on the screen are automatically included in the printout. They are only displayed when browsing individual chapters. Notes are stored only in your environment and no one else has access to them. However, if you switch to a different language or newer version of the same help file, your notes will also be displayed in it.*
   - &#8596; Move (toggle) sidebar to left/right
   - &#x1F532; Toggle UI to/from fullscreen
   - 📽 Presentation mode  

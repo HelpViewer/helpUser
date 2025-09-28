@@ -37,7 +37,7 @@ Ve spodní části panelu najdete několik tlačítek:
     *(po výběru zalomení stránek a způsobu tisku Unicode ikon v textu stačí podruhé kliknout na tlačítko a zobrazí se výsledek)*  
     *(do výstupu se zahrnují pouze kapitoly zobrazené ve stromu témat, domovská stránka nápovědy, kapitoly, na které je v textu odkazováno)*
   - ✏️ Poznámky  
-    *Umožňuje přidávat, spravovat a přepínat zobrazení (👁️) nebo skrytí (🙈) uživatelských poznámek. Poznámky lze odstranit jednoduchým vymazáním jejich obsahu. Ty, které jsou zobrazené na obrazovce, se automaticky zahrnují i do tisku. Zobrazují se pouze při procházení jednotlivých kapitol. Poznámky jsou ukládány v místním prostředí uživatele a nejsou sdílené mezi uživateli, ale jsou společné pro různé jazykové a časové verze téhož souboru nápovědy.*
+    *Umožňuje přidávat, spravovat a přepínat zobrazení (👁️) nebo skrytí (🙈) uživatelských poznámek. Poznámky lze odstranit jednoduchým vymazáním jejich obsahu. Ty, které jsou zobrazené na obrazovce, se automaticky zahrnují i do tisku. Zobrazují se pouze při procházení jednotlivých kapitol. Poznámky se ukládají pouze do Vašeho prostředí a nikdo jiný k nim nemá přístup. Pokud ale přepnete na jinou jazykovou nebo novější verzi stejného souboru nápovědy, zobrazí se v ní vaše poznámky také.*
   - &#8596; Přesunout levý panel na druhou stranu (nebo zpět)
   - &#x1F532; Přepnout full screen režim
   - 📽 Prezentační režim  
