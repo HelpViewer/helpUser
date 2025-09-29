@@ -1,5 +1,10 @@
 # Changelog
 
+## 20250929
+- Notes feature described
+- Fulltext feature description updated
+- Custom package feature mentioned
+
 ## 20250921
 - Sepia color theme mentioned
 
