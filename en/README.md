@@ -42,6 +42,8 @@ At the bottom of this panel, you’ll find several buttons:
   - &#x1F532; Toggle UI to/from fullscreen
   - 📽 Presentation mode  
     *(full screen mode (🔲), keys ⬅, ⬆, ➡, ⬇ are used to switch between chapters/slides)*
+  - 🌈 Select style  
+    *(you can select a different application style from the drop-down list)*
   - &#x274C;&#xFE0E; Close left sidebar
 
 ## Right panel

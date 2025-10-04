@@ -42,6 +42,8 @@ Ve spodní části panelu najdete několik tlačítek:
   - &#x1F532; Přepnout full screen režim
   - 📽 Prezentační režim  
     *(Přepnout full screen režim (🔲), klávesy ⬅, ⬆, ➡, ⬇ slouží k přechodu mezi kapitolami/snímky)*
+  - 🌈 Vybrat styl  
+    *(z rozbalovacího seznamu můžete vybrat jiný styl aplikace)*
   - &#x274C;&#xFE0E; Schovat levý panel
 
 ## Pravý panel
