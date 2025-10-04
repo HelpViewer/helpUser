@@ -90,6 +90,7 @@ Aplikace ukládá část Vaší konfigurace do **local storage**:
 | sidebarSide | Strana levého panelu (&#8596; ; 0 = vlevo, 1 = vpravo) |
 | printIcons | Režim tisku unicode ikon; 0 = odstranit, 1 = ponechat, 2 = podle konfigurace autora |
 | notesVisible | Režim zobrazení uživatelských poznámek; 0 = skryté (🙈), 1 = zobrazené (👁️) |
+| skin | Styl aplikace (🌈; prázdné = výchozí) |
 
 Modul ✏️ Poznámky uchovává svá data v **IndexedDB** úložišti webového prohlížeče (databáze **HelpViewer**).
 

@@ -90,6 +90,7 @@ The application remembers your preferences using **local storage**:
 | sidebarSide | Left panel side (&#8596; ; 0 = left, 1 = right) |
 | printIcons | Unicode icons (characters) printing mode; 0 = remove, 1 = keep, 2 = author's configuration |
 | notesVisible | User notes display mode; 0 = hidden (🙈), 1 = shown (👁️) |
+| skin | Style/skin of application UI (🌈; empty = default) |
 
 The ✏️ Notes module stores its data in the web browser's **IndexedDB** storage (database: **HelpViewer**).
 
