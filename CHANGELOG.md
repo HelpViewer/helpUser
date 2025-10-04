@@ -1,5 +1,8 @@
 # Changelog
 
+## 20251004
+- Style selection feature mentioned
+
 ## 20250929
 - Notes feature described
 - Fulltext feature description updated
