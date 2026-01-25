@@ -1,5 +1,8 @@
 # Changelog
 
+## 20260125
+- Export feature mentioned
+
 ## 20251004
 - Style selection feature mentioned
 
