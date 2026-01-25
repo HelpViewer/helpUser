@@ -61,6 +61,7 @@ The right panel displays the main content area:
   - &#x2B06; Go one level up
   - &#x27A1; Go to the next chapter
   - 📝 Edit in repository
+  - 📥 Export the current chapter or all chapters
   
 ## Why something might be missing?
 
@@ -74,6 +75,7 @@ There are several reasons why certain elements may not appear:
 | &#x2630; | The left panel is already visible |
 | Left panel | You closed the app with the panel hidden. Just click ☰ in the top bar to bring it back |
 | 🕘 | Help is not linked to the public online repository or it is not accessible (e.g. no internet connection) |
+| 📥 Export | The system administrator has removed the entire function or individual export formats from the application |
 
 The 📥 Custom package feature allows you to customise most of the functionality. If it was used when downloading the application, some features may be unavailable.
 

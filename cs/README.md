@@ -61,6 +61,7 @@ Pravý panel zobrazuje hlavní část aplikace:
   - &#x2B06; Přejít na nadřízenou kapitolu
   - &#x27A1; Přejít k následující kapitole
   - 📝 Editovat v repozitáři
+  - 📥 Export otevřené kapitoly nebo všech kapitol
   
 ## Proč část prvků chybí?
 
@@ -74,6 +75,7 @@ Může to být z několika důvodů:
 | &#x2630; | Levý panel je viditelný |
 | Levý panel | Schoval jste levý panel, klikněte na horním panelu na tlačítko ☰ a panel se znovu zobrazí |
 | 🕘 | Nápověda nemá vazbu na veřejný online repozitář  (např. není k dispozici připojení k internetu) |
+| 📥 Export | Správce systému z aplikace odebral celou funkci nebo jednotlivé exportní formáty |
 
 Funkce 📥 Vlastní balíček umožňuje upravit většinu funkcionality. Pokud byla při stažení aplikace použita, některé funkce mohou být nedostupné.
 
