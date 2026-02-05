@@ -1,5 +1,8 @@
 # Changelog
 
+## 20260205
+- Static webpages export variable **exportDictionaries** mentioned
+
 ## 20260125
 - Export feature mentioned
 
