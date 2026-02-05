@@ -93,6 +93,7 @@ Aplikace ukládá část Vaší konfigurace do **local storage**:
 | printIcons | Režim tisku unicode ikon; 0 = odstranit, 1 = ponechat, 2 = podle konfigurace autora |
 | notesVisible | Režim zobrazení uživatelských poznámek; 0 = skryté (🙈), 1 = zobrazené (👁️) |
 | skin | Styl aplikace (🌈; prázdné = výchozí) |
+| exportDictionaries | U statického exportu (pokud jej aplikace podporuje) 1 = budou exportovány seznamy (📇, 🔎), 0 = seznamy nebudou součástí exportu |
 
 Modul ✏️ Poznámky uchovává svá data v **IndexedDB** úložišti webového prohlížeče (databáze **HelpViewer**).
 

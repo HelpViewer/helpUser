@@ -93,6 +93,7 @@ The application remembers your preferences using **local storage**:
 | printIcons | Unicode icons (characters) printing mode; 0 = remove, 1 = keep, 2 = author's configuration |
 | notesVisible | User notes display mode; 0 = hidden (🙈), 1 = shown (👁️) |
 | skin | Style/skin of application UI (🌈; empty = default) |
+| exportDictionaries | For static export (if supported by the application): 1 = dictionaries will be exported (📇, 🔎), 0 = dictionaries will not be included in the export |
 
 The ✏️ Notes module stores its data in the web browser's **IndexedDB** storage (database: **HelpViewer**).
 
