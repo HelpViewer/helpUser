@@ -1,5 +1,8 @@
 # Changelog
 
+## 20260225
+- Bugfix: Link to latest version updated to latest changes connected to DOMPurify and introduced text variables
+
 ## 20260205
 - Static webpages export variable **exportDictionaries** mentioned
 
