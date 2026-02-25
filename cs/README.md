@@ -152,8 +152,4 @@ Moderní webové prohlížeče umí následující funkce:
 | Klávesová zkratka | Akce |
 |---|---|
 | Ikona na adresním řádku (&#x1F4E5;) na pravé straně | Instalovat webovou aplikaci (pokud ji web nabízí) |
-| 🌐 Odkaz na poslední verzi | <span id="linkhereI"></span> |
-
-<script>
-  insertDownloadLink('linkhereI', '@ (_)');
-</script>
+| 🌐 Odkaz na poslední verzi | @LTOPVERSIONV@ |

@@ -152,8 +152,4 @@ Modern web browsers include built-in features such as:
 | Shortcut | Action |
 |---|---|
 | Address bar icon (&#x1F4E5;) on right side | Install web app |
-| 🌐 Latest version download link | <span id="linkhereI"></span> |
-
-<script>
-  insertDownloadLink('linkhereI', '@ (_)');
-</script>
+| 🌐 Latest version download link | @LTOPVERSIONV@ |
