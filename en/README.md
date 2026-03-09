@@ -109,6 +109,13 @@ The following are valid path formats that end with:
 - .zip - zip help file
 - / - directory on your disk or network URI address
 
+## ❔ Contextual help
+
+If your administrator has installed the HelpViewer plugin in Chrome/Edge (Chromium) and the application is configured correctly, you can get quick contextual help by right-clicking on an element and selecting ❔ ("What's this?").
+
+If this option is not available, the plugin or configuration on the application side is missing.  
+If no chapter or text is displayed, the description of the element is missing from the help.
+
 ## Browser tips
 
 Modern web browsers include built-in features such as:

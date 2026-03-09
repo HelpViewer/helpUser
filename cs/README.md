@@ -109,6 +109,13 @@ Cesta může mít tyto formáty, které končí na:
 - .zip - čtení zazipovaného souboru
 - / - čtení adresáře nebo adresy ze sítě nebo disku
 
+## ❔ Kontextová nápověda
+
+Pokud váš administrátor nainstaloval HelpViewer doplněk (plugin) do prohlížeče Chrome/Edge (Chromium) a aplikace má správnou konfiguraci, získáte rychlou kontextovou nápovědu kliknutím na pravé tlačítko myši nad prvkem a výběrem položky ❔ ("Co je zde?").
+
+Pokud položka není dostupná, doplněk nebo konfigurace na straně aplikace chybí.  
+Pokud se nezobrazuje žádná kapitola nebo text, tak popis daného prvku v nápovědě chybí.
+
 ## Tipy pro prohlížeč
 
 Moderní webové prohlížeče umí následující funkce:
