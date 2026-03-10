@@ -102,7 +102,7 @@ The ✏️ Notes module stores its data in the web browser's **IndexedDB** stora
 ## Opening help file
 
 Append **?d={path}** to the viewer's URL to open a custom help file.
-If omitted, the default file **hlp/Help-{selected language}.zip** will be loaded automatically.
+If omitted, the default file **hlp/Help-{selected language}.zip** will be loaded automatically. If the language is specified with \_\_ (two underscores), the selected UI language from the user configuration will be used.
 
 The following are valid path formats that end with:
 
