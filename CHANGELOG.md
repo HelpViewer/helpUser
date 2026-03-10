@@ -1,5 +1,9 @@
 # Changelog
 
+## 20260310
+- Contextual help plugin and logic described in general
+- Two underscores in language name meaning described
+
 ## 20260225
 - Bugfix: Link to latest version updated to latest changes connected to DOMPurify and introduced text variables
 
