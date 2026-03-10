@@ -102,8 +102,7 @@ Modul ✏️ Poznámky uchovává svá data v **IndexedDB** úložišti webovéh
 ## Otevření souboru nápovědy
 
 Přidejte do adresního řádku parametr **?d={cesta}**. 
-Pokud toto neuděláte, bude použita výchozí hodnota: **hlp/Help-{jazyk}.zip** a prohlížeč se pokusí načíst data z tohoto souboru.
-Pokud je jazyk určen \_\_ (2x podtržítko), tak se použije vybraný jazyk prostředí z uživatelské konfigurace.
+Pokud toto neuděláte, bude použita výchozí hodnota: **hlp/Help-{jazyk}.zip** a prohlížeč se pokusí načíst data z tohoto souboru. Pokud je jazyk určen \_\_ (2x podtržítko), tak se použije vybraný jazyk prostředí z uživatelské konfigurace.
 
 Cesta může mít tyto formáty, které končí na:
 
